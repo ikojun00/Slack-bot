@@ -1,0 +1,6 @@
+module.exports = {
+  MIN_SCORE: 50,
+  MAX_ITEMS: 10,
+  SHEET_ID: "1WyB7dHjBsz9I54Hw9dJC_8A7I8NjREk1KXyFPMeFY-g",
+  CACHE_TTL: 300,
+};
